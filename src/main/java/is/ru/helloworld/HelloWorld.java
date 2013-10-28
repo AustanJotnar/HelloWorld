@@ -1,5 +1,5 @@
 
-Ackage is.ru.helloworld;
+package is.ru.helloworld;
 
 
 public class HelloWorld {

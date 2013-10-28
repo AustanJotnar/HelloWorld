@@ -1,5 +1,5 @@
 
-}ckage is.ru.helloworld;
+package is.ru.helloworld;
 
 
 import static org.junit.Assert.assertEquals;
